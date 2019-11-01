@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+.page_title {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 48pt;
+    text-align: center;
+    margin: 30px;
+}
+
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    border: 2px solid black;
+    float: left;
+    margin: auto;
+}
+
+.card_title {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-weight: bold;
+    font-size: auto;
+    text-align: center;
+    width: 120px;
+    height: 24px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 0;
+    float: right;
+    right: 1px;
+}
+
+.content {
+    margin-top: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-style: italic;
+    font-size: 12pt;
+}
+
+@media (min-width: 992px) {
+    .type_1 {
+        width: 30%;
+        margin-left: 2.5%;
+    }
+    .type_2 {
+        width: 30%;
+        margin-left: 2.5%;
+
+    }
+    .type_3 {
+        width: 30%;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .type_1 {
+        width: 45%;
+        margin-left: 3.33%;
+    }
+    .type_2 {
+        width: 45%;
+        margin-left: 3.33%;
+        margin-right: 3.33%;
+    }
+    .type_3{
+        margin: 3.33%
+    }
+}
+
+@media (max-width: 767px) {
+    .type_1, .type_2, .type_3 {
+        margin: 5%;
+    }
+}
+
+#chicken {
+    background-color: salmon;
+}
+#beef {
+    background-color: brown;
+}
+#sushi {
+    background-color: sandybrown;
+}
