@@ -1,9 +1,10 @@
 # Welcome
 
-This is a page built for Coursera course: HTML, CSS, and JavaScript for Web Developers. You can find my assignments down there.
+This is a page built for Coursera course: HTML, CSS, and JavaScript for Web Developers. You can find my assignments below.
 Have a great day!
 
 # Assignments
+All assignments I did for this course are listed below.
 ## Module 2
 https://haonanyin.github.io/coursera-web/module2_solution/index.html
 ## Module 3
