@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+/* Header */
+#header-nav {
+    background-color: #efc9af;
+    border-radius: 0;
+    border: 0;
+}
+
+#page-title {
+    font-family: "McLaren", cursive;
+    font-size: 24pt;
+    margin: 5px;
+    color: #104c91;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #104c91;
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+}
+
+#nav-list {
+    margin: 0;
+}
+
+#nav-list:hover {
+    color: lightblue;
+}
+
+#menu-button-bar {
+    background: #104c91;
+}
+
+#drop-menu {
+    text-align: center;
+}
+
+#drop-menu-divide {
+    margin: 0;
+    border-color: #1f8ac0;
+}
+
+#menu-item {
+    font-family: "McLaren", cursive;
+    color: #104c91;
+}
+
+.page-header {
+    font-family: "McLaren", cursive;
+    color: #104c91;
+    text-align: center;
+    font-size: 2em;
+    margin: 0;
+    border: 0;
+}
+
+.text-card {
+    font-family: "McLaren", cursive;
+    background-color: #efc9af;
+    margin: 5px;
+    padding: 5px;
+}
+
+#card-title {
+    font-size: 18px;
+    color: #1f8ac0;
+    text-align: center;
+}
+
+#card-content {
+    color: #1f8ac0;
+}
