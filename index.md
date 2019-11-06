@@ -5,12 +5,12 @@ Have a great day!
 
 # Assignments
 All assignments I did for this course are listed below.
-## Module 2
-(https://haonanyin.github.io/coursera-web/module2_solution/index.html)
-## Module 3
-(https://haonanyin.github.io/coursera-web/module3_solution/index.html)
-## Module 4
-(https://haonanyin.github.io/coursera-web/module4_solution/index.html)
+
+[Module 2](https://haonanyin.github.io/coursera-web/module2_solution/index.html)
+
+[Module 3](https://haonanyin.github.io/coursera-web/module3_solution/index.html)
+
+[Module 4](https://haonanyin.github.io/coursera-web/module4_solution/index.html)
 
 # Page Help
 ```
