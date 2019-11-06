@@ -1,3 +1,17 @@
+# Welcome
+
+This is a page built for Coursera course: HTML, CSS, and JavaScript for Web Developers. You can find my assignments below.
+Have a great day!
+
+# Assignments
+All assignments I did for this course are listed below.
+## Module 2
+https://haonanyin.github.io/coursera-web/module2_solution/index.html
+## Module 3
+https://haonanyin.github.io/coursera-web/module3_solution/index.html
+
+# Page Help
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HaonanYin/coursera-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
