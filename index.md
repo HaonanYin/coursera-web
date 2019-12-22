@@ -14,4 +14,4 @@ Have a great day!
   - [Module 4](https://haonanyin.github.io/coursera-web/module4_solution/index.html)
 
 - Single Page Web Applications with AngularJS
-  - [Module 1](https://haonanyin.github.io/coursera-web/module1_solution/index.html) (Not Working? Because I haven't coded it)
+  - [Module 1](https://github.com/HaonanYin/coursera-web/tree/master/assignment1_solution/index.html)
