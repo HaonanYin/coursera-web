@@ -17,3 +17,4 @@ Have a great day!
   - [Module 1](https://haonanyin.github.io/coursera-web/assignment1_solution/index.html)
   - [Module 2](https://haonanyin.github.io/coursera-web/assignment2_solution/index.html)
   - [Module 3](https://haonanyin.github.io/coursera-web/assignment3_solution/index.html)
+  - [Module 4](https://haonanyin.github.io/coursera-web/assignment4_solution/index.html)
