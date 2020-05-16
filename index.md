@@ -18,4 +18,4 @@ Have a great day!
   - [Module 2](https://haonanyin.github.io/coursera-web/assignment2_solution/index.html)
   - [Module 3](https://haonanyin.github.io/coursera-web/assignment3_solution/index.html)
   - [Module 4](https://haonanyin.github.io/coursera-web/assignment4_solution/index.html)
-  - [Module 5](https://haonanyin.github.io/coursera-web/assignment5_solution/index.html)
+  - [Module 5](https://haonanyin.github.io/coursera-web/assignment5_solution/#/)
